@@ -1,7 +1,7 @@
 {
 	"products": [{
 			"id": "productCard1",
-			"title-product": "t-shirt",
+			"titleProduct": "t-shirt",
 			"price": "1099",
 			"priceAfterDisc": "599",
 			"imgName": "cart1",
@@ -11,7 +11,7 @@
 		},
 		{
 			"id": "productCard2",
-			"title-product": "awsm-t",
+			"titleProduct": "awsm-t",
 			"price": "1055",
 			"priceAfterDisc": "899",
 			"imgName": "cart2",
@@ -21,7 +21,7 @@
 		},
 		{
 			"id": "productCard3",
-			"title-product": "red-tank",
+			"titleProduct": "red-tank",
 			"price": "1063",
 			"priceAfterDisc": "799",
 			"imgName": "cart3",
@@ -31,7 +31,7 @@
 		},
 		{
 			"id": "productCard4",
-			"title-product": "hello",
+			"titleProduct": "hello",
 			"price": "1544",
 			"priceAfterDisc": "799",
 			"imgName": "cart4",
@@ -41,7 +41,7 @@
 		},
 		{
 			"id": "productCard5",
-			"title-product": "hey-t",
+			"titleProduct": "hey-t",
 			"price": "999",
 			"priceAfterDisc": "699",
 			"imgName": "cart5",
@@ -61,7 +61,7 @@
 		},
 		{
 			"id": "productCard7",
-			"title-product": "kurtas-es ",
+			"titleProduct": "kurtas-es ",
 			"price": "1967",
 			"priceAfterDisc": "999",
 			"imgName": "cart7",
@@ -71,7 +71,7 @@
 		},
 		{
 			"id": "productCard8",
-			"title-product": "my-hodie",
+			"titleProduct": "my-hodie",
 			"price": "1333",
 			"priceAfterDisc": "899",
 			"imgName": "cart8",
@@ -81,7 +81,7 @@
 		},
 		{
 			"id": "productCard9",
-			"title-product": "shirt-wow",
+			"titleProduct": "shirt-wow",
 			"price": "1255",
 			"priceAfterDisc": "799",
 			"imgName": "cart9",
@@ -91,7 +91,7 @@
 		},
 		{
 			"id": "productCard10",
-			"title-product": "t-top",
+			"titleProduct": "t-top",
 			"price": "1456",
 			"priceAfterDisc": "699",
 			"imgName": "cart10",
@@ -101,7 +101,7 @@
 		},
 		{
 			"id": "productCard11",
-			"title-product": "aws-shirt",
+			"titleProduct": "aws-shirt",
 			"price": "1099",
 			"priceAfterDisc": "599",
 			"imgName": "cart11",
