@@ -7,7 +7,7 @@
 			"imgName": "cart1",
 			"new": "TRUE",
 			"rating": "4",
-			"imageOfProduct": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
+			"url": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
 		},
 		{
 			"id": "productCard2",
@@ -17,7 +17,7 @@
 			"imgName": "cart2",
 			"new": "FALSE",
 			"rating": "5",
-			"imageOfProduct": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
+			"url": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
 		},
 		{
 			"id": "productCard3",
@@ -27,7 +27,7 @@
 			"imgName": "cart3",
 			"new": "FALSE",
 			"rating": "4",
-			"imageOfProduct": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
+			"url": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
 		},
 		{
 			"id": "productCard4",
@@ -47,7 +47,7 @@
 			"imgName": "cart5",
 			"new": "TRUE",
 			"rating": "4",
-			"imageOfProduct": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
+			"url": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
 		},
 		{
 			"id": "productCard6",
@@ -57,7 +57,7 @@
 			"imgName": "cart6",
 			"new": "FALSE",
 			"rating": "4",
-			"imageOfProduct": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
+			"url": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
 		},
 		{
 			"id": "productCard7",
@@ -67,7 +67,7 @@
 			"imgName": "cart7",
 			"new": "FALSE",
 			"rating": "5",
-			"imageOfProduct": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
+			"url": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
 		},
 		{
 			"id": "productCard8",
@@ -77,7 +77,7 @@
 			"imgName": "cart8",
 			"new": "TRUE",
 			"rating": "5",
-			"imageOfProduct": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
+			"url": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
 		},
 		{
 			"id": "productCard9",
@@ -87,7 +87,7 @@
 			"imgName": "cart9",
 			"new": "TRUE",
 			"rating": "5",
-			"imageOfProduct": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
+			"url": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
 		},
 		{
 			"id": "productCard10",
@@ -97,7 +97,7 @@
 			"imgName": "cart10",
 			"new": "FALSE",
 			"rating": "5",
-			"imageOfProduct": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
+			"url": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
 		},
 		{
 			"id": "productCard11",
@@ -107,7 +107,7 @@
 			"imgName": "cart11",
 			"new": "FALSE",
 			"rating": "5",
-			"imageOfProduct": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
+			"url": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
 		}
 	]
 }
