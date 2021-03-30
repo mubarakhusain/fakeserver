@@ -1,6 +1,6 @@
 {
 	"products": [{
-			"id": "productCard1",
+			"id": "productCarda",
 			"titleProduct": "t-shirt",
 			"price": 1099,
 			"priceAfterDisc": 599,
@@ -10,7 +10,7 @@
 			"url": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
 		},
 		{
-			"id": "productCard2",
+			"id": "productCardb",
 			"titleProduct": "awsm-t",
 			"price": 1055,
 			"priceAfterDisc": 899,
@@ -20,7 +20,7 @@
 			"url": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
 		},
 		{
-			"id": "productCard3",
+			"id": "productCardc",
 			"titleProduct": "red-tank",
 			"price": 1063,
 			"priceAfterDisc": 799,
@@ -30,7 +30,7 @@
 			"url": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
 		},
 		{
-			"id": "productCard4",
+			"id": "productCardd",
 			"titleProduct": "hello",
 			"price": 544,
 			"priceAfterDisc": 799,
@@ -40,7 +40,7 @@
 			"imageOfProduct": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
 		},
 		{
-			"id": "productCard5",
+			"id": "productCarde",
 			"titleProduct": "hey-t",
 			"price": 999,
 			"priceAfterDisc": 699,
@@ -50,7 +50,7 @@
 			"url": "https://raw.githubusercontent.com/mubarakhusain/images-for-website-skilllync/main/Group%202579%402x.png"
 		},
 		{
-			"id": "productCard6",
+			"id": "productCardf",
 			"title-product": "shirt-me",
 			"price": 1288,
 			"priceAfterDisc": 899,
