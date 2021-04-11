@@ -1,7 +1,7 @@
 {
 	"products": [{
 			"id": "productCarda",
-			"titleProduct": "t-shirt",
+			"titleProduct": "T-Shirt",
 			"price": 1099,
 			"priceAfterDisc": 599,
 			"imgName": "cart1",
@@ -14,7 +14,7 @@
 		},
 		{
 			"id": "productCardb",
-			"titleProduct": "awsm-t",
+			"titleProduct": "Awsm-t",
 			"price": 1055,
 			"priceAfterDisc": 899,
 			"imgName": "cart2",
@@ -27,7 +27,7 @@
 		},
 		{
 			"id": "productCardc",
-			"titleProduct": "red-tank",
+			"titleProduct": "Red-Tank",
 			"price": 1063,
 			"priceAfterDisc": 799,
 			"imgName": "cart3",
@@ -40,7 +40,7 @@
 		},
 		{
 			"id": "productCardd",
-			"titleProduct": "hello",
+			"titleProduct": "Hello-T",
 			"price": 544,
 			"priceAfterDisc": 799,
 			"imgName": "cart4",
@@ -53,7 +53,7 @@
 		},
 		{
 			"id": "productCarde",
-			"titleProduct": "hey-t",
+			"titleProduct": "Hey-T",
 			"price": 999,
 			"priceAfterDisc": 699,
 			"imgName": "cart5",
@@ -66,7 +66,7 @@
 		},
 		{
 			"id": "productCardf",
-			"titleProduct": "shirtHello",
+			"titleProduct": "Shirt-Hello",
 			"price": 1288,
 			"priceAfterDisc": 899,
 			"imgName": "cart6",
