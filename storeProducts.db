@@ -1,0 +1,101 @@
+{
+    "items": [
+      {
+        "sys": { "id": "1" },
+        "fields": {
+          "title": "Premium Yellow Black Top",
+          "price": 256.99,
+          "image": { "fields": { "file": { "url": "./prdImages/fs1.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "White T-shirt & Jeans combo",
+          "price": 299.99,
+          "image": { "fields": { "file": { "url": "./prdImages/fs2.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "3" },
+        "fields": {
+          "title": "Fashion combo",
+          "price": 420.99,
+          "image": { "fields": { "file": { "url": "./prdImages/fs3.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "4" },
+        "fields": {
+          "title": "Women plazo pant",
+          "price": 159.99,
+          "image": { "fields": { "file": { "url": "./prdImages/pant1.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "5" },
+        "fields": {
+          "title": "Premium Shirt",
+          "price": 139.99,
+          "image": { "fields": { "file": { "url": "./prdImages/shirt1.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "6" },
+        "fields": {
+          "title": "Awesome T-shirt for Men",
+          "price": 99.99,
+          "image": { "fields": { "file": { "url": "./prdImages/shirt2.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "7" },
+        "fields": {
+          "title": "Premium Casual Shirt",
+          "price": 129.99,
+          "image": { "fields": { "file": { "url": "./prdImages/shirt3.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "8" },
+        "fields": {
+          "title": "Royal Blue Suit",
+          "price": 599.99,
+          "image": { "fields": { "file": { "url": "./prdImages/suit1.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "9" },
+        "fields": {
+          "title": "Gentelmen Suit",
+          "price": 489.99,
+          "image": { "fields": { "file": { "url": "./prdImages/suit2.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "10" },
+        "fields": {
+          "title": "Office Suit for Men",
+          "price": 759.99,
+          "image": { "fields": { "file": { "url": "./prdImages/suit3.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "11" },
+        "fields": {
+          "title": "Formal Women Suit",
+          "price": 579.99,
+          "image": { "fields": { "file": { "url": "./prdImages/suit4.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "12" },
+        "fields": {
+          "title": "Black T-shirt for Women",
+          "price": 256.99,
+          "image": { "fields": { "file": { "url": "./prdImages/tshirt.jpeg" } } }
+        }
+      }
+    ]
+  }
+  
